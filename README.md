@@ -7,14 +7,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Computer+Vision+Engineer;Building+Smart+%26+Scalable+ML+Models;Transforming+Visual+Data+into+Insights;" alt="Typing SVG" />
 
   <p align="center">
-    <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://insights-unlocked-dark.lovable.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-Insights_Unlocked-00F2FE?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mahakhaled8889@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
   </p>
 </div>
 
 ---
 
-<!-- 2. Tech Stack & Core Competencies -->
+<!-- 2. Interactive Portfolio Card -->
+<div align="center">
+  <h3>✨ Explore My Interactive Web Portfolio</h3>
+  <p> Check out my latest AI/ML projects, deployments, and visual insights in action:</p>
+  <a href="https://insights-unlocked-dark.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_Insights_Unlocked-Dark_Theme_Experience-111827?style=for-the-badge&logo=react&logoColor=00F2FE" alt="Live Portfolio" />
+  </a>
+</div>
+
+---
+
+<!-- 3. Tech Stack & Core Competencies -->
 ### 🛠️ Tech Stack & Core Competencies
 
 <p align="left">
@@ -23,7 +41,7 @@
 
 ---
 
-<!-- 3. Highlighted Project Card -->
+<!-- 4. Highlighted Project Card -->
 ### 🌟 Highlighted Project
 
 > ♻️ **SortifyAI — Real-Time Waste Sorting System**
@@ -34,7 +52,7 @@
 
 ---
 
-<!-- 4. GitHub Stats & Activity -->
+<!-- 5. GitHub Stats & Activity -->
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
@@ -44,7 +62,7 @@
 
 <br />
 
-<!-- 5. Snake Contribution Animation -->
+<!-- 6. Snake Contribution Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakhaled/mahakhaled/output/github-contribution-grid-snake-dark.svg">
@@ -55,9 +73,7 @@
 
 ---
 
-<!-- 6. Profile Visitor Counter -->
+<!-- 7. Profile Visitor Counter (مرة واحدة فقط) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahakhaled&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
   <img src="https://komarev.com/ghpvc/?username=mahakhaled&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
