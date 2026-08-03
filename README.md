@@ -1,19 +1,20 @@
-<!-- ✨ بداية الجزء التفاعلي الحركي -->
+<!-- 1. Header Banner مع خلفية نيون حركية + تأثير كتابة -->
 <div align="center">
-  <h1 align="center">Maha Khaled</h1>
-  <!-- تأثير الكتابة الحركي - (Dynamic Text Banner) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=750&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+an+AI+%26+Computer+Vision+Engineer;Converting+visual+data+into+intelligent+insights;Optimizing+pipelines+%26+building+ML+systems;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Maha%20Khaled&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
+  
+  <br />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Computer+Vision+Engineer;Building+Smart+%26+Scalable+ML+Models;Transforming+Visual+Data+into+Insights;" alt="Typing SVG" />
 
   <p align="center">
-    <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
-<!-- ✨ نهاية الجزء التفاعلي الحركي -->
 
 ---
 
-<!-- 🛠️ الجزء الثابت اللي عاجبك (المهارات) - لم يتغير -->
+<!-- 2. Tech Stack & Core Competencies (الجزء المفضل لكي) -->
 ### 🛠️ Tech Stack & Core Competencies
 
 <p align="left">
@@ -22,26 +23,39 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+<!-- 3. Highlighted Project Card -->
+### 🌟 Highlighted Project
 
-* ♻️ **SortifyAI** — Real-Time Smart Waste Classification System
-  > *Utilized a lightweight MobileNetV2 architecture for optimized edge-device deployment.*
-  `Python` • `PyTorch` • `MobileNetV2` • `OpenCV`
-
-* 📄 **Document Image Classification Pipeline**
-  > *Automated end-to-end computer vision workflow for document processing and feature extraction.*
-  `Python` • `OpenCV` • `Scikit-Learn`
-
-* 📊 **Data Performance & Insights Engine**
-  > *Data cleaning pipelines, metric identification, and KPI evaluation for complex datasets.*
-  `Pandas` • `NumPy` • `Data Analytics`
+> ♻️ **SortifyAI — Real-Time Waste Sorting System**
+>
+> *Powered by lightweight MobileNetV2 architecture for high-speed edge computing.*
+> 
+> `PyTorch` • `MobileNetV2` • `OpenCV` • `Real-Time Inference`
 
 ---
 
-<!-- 📈 الجزء اللي تم إصلاح روابطه لإظهار الإحصائيات -->
-### 📈 GitHub Contribution & Analytics
+<!-- 4. GitHub Stats & Activity -->
+### 📊 GitHub Activity & Insights
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+<br />
+
+<!-- 5. Snake Contribution Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahakhaled/mahakhaled/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahakhaled/mahakhaled/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahakhaled/mahakhaled/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- 6. Profile Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahakhaled&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
