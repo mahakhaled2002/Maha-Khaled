@@ -1,60 +1,43 @@
-<!-- Header Banner - Insights Unlocked Dark Theme -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=80&lines=Hi+%F0%9F%90%8B%2C+I'm+Maha+Khaled;AI+%26+Computer+Vision+Engineer;Insights+Unlocked+%E2%9C%A8;" alt="Typing SVG" />
-  
-  <p align="center">
-    <code><b>AI / ML & Computer Vision Engineer</b> • Transforming Raw Data into Intelligent Insights</code>
-  </p>
+<h1 align="center">Maha Khaled</h1>
+<p align="center">
+  <b>AI & Computer Vision Engineer</b><br>
+  <sub>Transforming complex visual data & raw metrics into intelligent systems</sub>
+</p>
 
-  <p align="center">
-    <a href="mailto:mahakhaled8889@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<br />
+---
 
-<!-- Tech Stack Section -->
-### 🛠️ Tech Stack & Neural Arsenal
+### ⚡ Tech Stack & Core Competencies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F79939?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,opencv,scikitlearn,git&perline=7" />
+</p>
 
-<br />
+---
 
-<!-- Featured Projects -->
-### 🚀 Featured Intelligent Systems
+### 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ♻️ **SortifyAI** | Real-time smart waste sorting system powered by lightweight MobileNetV2 architecture. | `PyTorch` `MobileNetV2` `OpenCV` |
-| 📄 **Document Classifier** | End-to-end Computer Vision pipeline designed for automated document analysis. | `Python` `Scikit-Learn` `OpenCV` |
-| 📊 **Data Performance Insights** | Advanced data cleaning, metric identification, and KPI evaluation systems. | `Pandas` `NumPy` `Data Cleaning` |
+* ♻️ **SortifyAI** — Real-Time Smart Waste Classification System
+  > *Utilized a lightweight MobileNetV2 architecture for optimized edge-device deployment.*
+  `Python` • `PyTorch` • `MobileNetV2` • `OpenCV`
 
-<br />
+* 📄 **Document Image Classification Pipeline**
+  > *Automated end-to-end computer vision workflow for document processing and feature extraction.*
+  `Python` • `OpenCV` • `Scikit-Learn`
 
-<!-- Analytics Section -->
-### 📊 GitHub Activity & Insights
+* 📊 **Data Performance & Insights Engine**
+  > *Data cleaning pipelines, metric identification, and KPI evaluation for complex datasets.*
+  `Pandas` • `NumPy` • `Data Analytics`
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+---
 
-<hr />
+### 📈 Contribution & Analytics
 
-<div align="center">
-  <sub><i>⚡ Powered by Insights Unlocked Aesthetic</i></sub>
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=dark&hide_border=true&show_icons=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=dark&hide_border=true&layout=compact" />
+</p>
