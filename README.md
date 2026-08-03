@@ -1,63 +1,40 @@
-<!-- HEADER / BANNER SECTION -->
+<!-- Header Banner with Typing Effect -->
 <div align="center">
-  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Background Gradient -->
-      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0d1117"/>
-        <stop offset="50%" stop-color="#161b22"/>
-        <stop offset="100%" stop-color="#0d1117"/>
-      </linearGradient>
-      <!-- Glow Gradient -->
-      <linearGradient id="electric-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00f2fe"/>
-        <stop offset="50%" stop-color="#7928ca"/>
-        <stop offset="100%" stop-color="#ff0080"/>
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="8" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over" />
-      </filter>
-    </defs>
-    <!-- Card Background -->
-    <rect width="100%" height="100%" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
-    <!-- Decorative Glowing Accent Line -->
-    <path d="M 0,2 L 800,2" stroke="url(#electric-glow)" stroke-width="3" filter="url(#glow)"/>
-    <!-- Typography -->
-    <text x="50%" y="65" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="2">
-      MAHA KHALED
-    </text>
-    <text x="50%" y="105" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="500" font-size="16" fill="#00f2fe" text-anchor="middle" letter-spacing="3">
-      MACHINE LEARNING & COMPUTER VISION ENGINEER
-    </text>
-    <!-- Tech Subtitle Accent -->
-    <text x="50%" y="130" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">
-      [ AI System Architecture • Real-Time Vision • Deep Learning ]
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+a+Software+Developer;Building+Smart+%26+Scalable+Solutions;Passionate+about+Data+%26+AI;" alt="Typing SVG" />
+  
+  <p align="center">
+    <i>Turning complex ideas and data into elegant, efficient applications.</i>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </p>
 </div>
 
-<br/>
+<hr />
 
-<!-- ANIMATED TYPING INTRO -->
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=45&lines=Hi+there%2C+I'm+Maha+Khaled+👋;Building+Intelligent+Computer+Vision+Systems;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahakhaled882002/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br />
 
----
+### 📊 GitHub Analytics
 
-### ⚡ About Me
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
-```yaml
-identity:
-  role: Machine Learning & Computer Vision Engineer
-  interests: Deep Learning, Edge AI, Document Classification, Data Analytics
-  current_focus: Building real-time computer vision pipelines & optimizing lightweight neural nets
-  philosophy: "Bridging the gap between raw visual data and production-ready AI."
+<hr />
+
+<div align="center">
+  <sub><i>Designed with a focus on simplicity and performance.</i></sub>
+</div>
