@@ -14,7 +14,7 @@
 
 ---
 
-<!-- 2. Tech Stack & Core Competencies (الجزء المفضل لكي) -->
+<!-- 2. Tech Stack & Core Competencies -->
 ### 🛠️ Tech Stack & Core Competencies
 
 <p align="left">
@@ -38,8 +38,8 @@
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahakhaled&theme=tokyonight&hide_border=true&show_icons=true" alt="Maha's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakhaled&theme=tokyonight&hide_border=true&layout=compact" alt="Maha's Top Languages" />
 </div>
 
 <br />
@@ -57,5 +57,7 @@
 
 <!-- 6. Profile Visitor Counter -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahakhaled&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
   <img src="https://komarev.com/ghpvc/?username=mahakhaled&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
