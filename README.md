@@ -1,43 +1,63 @@
-# 👋 Hi, I'm Maha Khaled
+<!-- HEADER / BANNER SECTION -->
+<div align="center">
+  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Background Gradient -->
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0d1117"/>
+        <stop offset="50%" stop-color="#161b22"/>
+        <stop offset="100%" stop-color="#0d1117"/>
+      </linearGradient>
+      <!-- Glow Gradient -->
+      <linearGradient id="electric-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f2fe"/>
+        <stop offset="50%" stop-color="#7928ca"/>
+        <stop offset="100%" stop-color="#ff0080"/>
+      </linearGradient>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="8" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+    <!-- Card Background -->
+    <rect width="100%" height="100%" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Decorative Glowing Accent Line -->
+    <path d="M 0,2 L 800,2" stroke="url(#electric-glow)" stroke-width="3" filter="url(#glow)"/>
+    <!-- Typography -->
+    <text x="50%" y="65" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+      MAHA KHALED
+    </text>
+    <text x="50%" y="105" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="500" font-size="16" fill="#00f2fe" text-anchor="middle" letter-spacing="3">
+      MACHINE LEARNING & COMPUTER VISION ENGINEER
+    </text>
+    <!-- Tech Subtitle Accent -->
+    <text x="50%" y="130" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">
+      [ AI System Architecture • Real-Time Vision • Deep Learning ]
+    </text>
+  </svg>
+</div>
 
-### 🚀 Machine Learning & Computer Vision Engineer | Data Analyst
+<br/>
 
-Passionate about building AI, Machine Learning, and Computer Vision solutions to solve real-world problems through data!
-
----
-
-## 🛠️ Skills & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-* ♻️ **SortifyAI:** Real-time AI waste classification system using MobileNetV2 architecture.
-* 📄 **Document Image Classification:** Computer vision model for automatic document and book sorting.
-* 📊 **Data Analytics & Cleaning:** End-to-end data processing, cleaning, and performance KPI insights.
-
----
-
-## 📊 GitHub Stats
+<!-- ANIMATED TYPING INTRO -->
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=45&lines=Hi+there%2C+I'm+Maha+Khaled+👋;Building+Intelligent+Computer+Vision+Systems;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahaKhaled&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaKhaled&layout=compact&theme=radial" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/mahakhaled882002/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahakhaled8889@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📫 Connect with Me
+### ⚡ About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahakhaled882002/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahakhaled8889@gmail.com)
+```yaml
+identity:
+  role: Machine Learning & Computer Vision Engineer
+  interests: Deep Learning, Edge AI, Document Classification, Data Analytics
+  current_focus: Building real-time computer vision pipelines & optimizing lightweight neural nets
+  philosophy: "Bridging the gap between raw visual data and production-ready AI."
